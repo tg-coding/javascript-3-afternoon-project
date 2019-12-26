@@ -40,14 +40,6 @@
 */
 
 
-// function showValues(obj) {
-//   let arr = [];
-//   for(let key in obj){
-//     arr.push(obj[key])
-//   } return (arr)
-// } 
-
-
 function showValues(obj) {
   let str = '';
   for (let key in obj){
